@@ -1,0 +1,15 @@
+{
+  "name": "back-end-module",
+  "displayName": "Back-End Module",
+  "description": "Contains extensions for general back-end web development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
