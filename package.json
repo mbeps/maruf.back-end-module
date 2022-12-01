@@ -3,6 +3,7 @@
   "displayName": "Back-End Module",
   "description": "Contains extensions for general back-end web development",
   "version": "0.0.1",
+  "publisher": "Maruf",
   "engines": {
     "vscode": "^1.73.0"
   },
@@ -10,6 +11,12 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "cweijan.vscode-database-client2",
+    "rangav.vscode-thunder-client",
+    "ReliableWebhook.ReliableWebhook",
+    "ply-ct.vscode-ply",
+    "GraphQL.vscode-graphql-execution",
+    "GraphQL.vscode-graphql",
+    "GraphQL.vscode-graphql-syntax"
   ]
 }
