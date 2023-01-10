@@ -2,7 +2,7 @@
   "name": "back-end-module",
   "displayName": "Back-End Module",
   "description": "Contains extensions for general back-end web development",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Maruf",
   "repository": "https://github.com/mbeps/maruf.back-end-module",
   "engines": {
@@ -13,7 +13,7 @@
   ],
   "extensionPack": [ 
     "cweijan.vscode-database-client2",
-    "rangav.vscode-thunder-client",
+    "RapidAPI.vscode-rapidapi-client",
     "ReliableWebhook.ReliableWebhook",
     "ply-ct.vscode-ply",
     "GraphQL.vscode-graphql-execution",
