@@ -4,6 +4,7 @@
   "description": "Contains extensions for general back-end web development",
   "version": "0.0.1",
   "publisher": "Maruf",
+  "repository": "https://github.com/mbeps/maruf.back-end-module",
   "engines": {
     "vscode": "^1.73.0"
   },
